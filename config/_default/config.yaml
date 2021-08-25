@@ -5,7 +5,7 @@
 
 title: Noor Pratap Singh # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2021} Noor Pratap' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -44,6 +44,7 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  # home: [HTML, RSS, JSON]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos

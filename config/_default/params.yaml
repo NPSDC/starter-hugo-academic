@@ -136,7 +136,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: 'wowchemy'
   algolia:
     app_id: ''
     api_key: ''
