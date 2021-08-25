@@ -20,19 +20,20 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: npsingh@umd.edu, noorpratap@gmail.com
+email: npsingh@umd.edu
+personal email: noorpratap@gmail.com
 phone: 3017429013
 address:
-  street: Paint Branch drive
+  street: Brendan Iribe Center for Computer Science and Engineering, 8125 Paint Branch Drive
   city: College Park
   region: MD
-  postcode: '20749'
+  postcode: '20740'
   country: United States
   country_code: US
 
 coordinates:
-  latitude: '38.989320436323176'
-  longitude: '-76.93650387308863'
+  latitude: '38.989'
+  longitude: '-76.936'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
