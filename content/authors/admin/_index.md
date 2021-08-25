@@ -29,7 +29,7 @@ education:
     institution: UMD - College Park
     year: 2019-Present
   - course: MS in Compuer Science
-    institution: Massachusetts Institute of Technology
+    institution: UMD - College Park
     year: 2019-2021
   - course: MS by Research in Computational Natural Science
     institution: IIIT - Hyderabad
@@ -73,5 +73,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD Student an the Department of Computer Science at the University of Maryland, College Park 
+I am a PhD Student at the Department of Computer Science at the University of Maryland, College Park (UMD). At UMD, I am part of [CBCB](https://www.cbcb.umd.edu/) where I work with [Dr. Rob Patro](http://www.robpatro.com/redesign/) who leads the awesome [COMBINE-Lab](https://combine-lab.github.io/). My research involves exploring the approaches for quantifying transcriptional uncertainty and developing methods to leverage it for a more informed and accurate downstream analysis. I am in general interested in applying and developing statistical and machine learning methods for analysing different high-throughput genomics data. I am also passionate about using data for precision and trasnlational medicine.
+
+Before joining the COMBINE-Lab, I worked with [Dr Héctor Corrada Bravo](https://www.hcbravo.org/) on using transcriptome segments as base units for quantification for alternative splicing and clustering in full-length single cell sequencing data.
+
+I did my undergrad at IIIT-H in India where I also did a MS by Research under [Dr. Vinod PK](https://faculty.iiit.ac.in/~vinod.pk/team.html). I looked at the changes in the patterns between different stages of papillary renal cell carcinoma using RNASeq and DNA methylation data. I also studies the relationship between these two modalities and built integrative machine learning models to predict the stage of cancer.
+
+During the summer of 2017, I also got to work as intern under [Dr. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/default.shtml) at [ZMBH](https://www.zmbh.uni-heidelberg.de), University of Heidelberg where I worked on visualization of genomics data and integrating single cell with bulk RNASeq data. I also worked with Dr. Sam Corless at [Erhardt Lab](https://www.zmbh.uni-heidelberg.de/Erhardt/) where I analyzed thousands of ChipSeq data to find the enrichment of different proteins at various regions of the genome.
+
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
