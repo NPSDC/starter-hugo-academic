@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Machine learning models to predict the progression from early to late stages of papillary renal cell carcinoma"
-authors: [Noor Pratap Singh, Raju S Bapi, P K Vinod ]
+authors: ["**Noor Pratap Singh**", "Raju S Bapi", "P K Vinod" ]
 date: 2018-09-01
 doi: "0.1016/j.compbiomed.2018.06.030"
 
