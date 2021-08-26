@@ -58,6 +58,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/noor-pratap-singh-07653b74/
+- icon: CV
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1aAp7bW_zMkok7MjJ2bL-_A659rfRI550/view?usp=sharing
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -79,6 +83,4 @@ Before joining the COMBINE-Lab, I worked with [Dr Héctor Corrada Bravo](https:/
 
 I did my undergrad at IIIT-H in India where I also obtained a MS by Research under [Dr. Vinod PK](https://faculty.iiit.ac.in/~vinod.pk/team.html). I looked at the changes in the patterns between different stages of papillary renal cell carcinoma using RNASeq and DNA methylation data. I also studied the relationship between these two modalities and built integrative machine learning models to predict the stage of cancer.
 
-During the summer of 2017, I also got to work as an intern under [Dr. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/default.shtml) at [ZMBH](https://www.zmbh.uni-heidelberg.de), University of Heidelberg where I worked on visualization of genomics data and integrating single cell with bulk RNASeq data. I also collaborated with Dr. Sam Corless at [Erhardt Lab](https://www.zmbh.uni-heidelberg.de/Erhardt/) where I analyzed thousands of ChipSeq data to find the enrichment of different proteins at various regions of the genome.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+During the summer of 2017, I also got to work as an intern under [Dr. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/default.shtml) at [ZMBH](https://www.zmbh.uni-heidelberg.de), University of Heidelberg where I worked on visualization of genomics data and integrating single cell with bulk RNASeq data. I also collaborated with Dr. Sam Corless at [Erhardt Lab](https://www.zmbh.uni-heidelberg.de/Erhardt/) where I analyzed thousands of ChipSeq datasets to find the enrichment of different proteins at various regions of the genome.
