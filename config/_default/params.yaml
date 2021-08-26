@@ -14,7 +14,7 @@ font_size: S
 
 site_type: Person
 local_business_type: ''
-org_name: 'Combine-Lab'
+org_name: ''
 description: 'Personal Website'
 twitter: ''
 
@@ -30,6 +30,11 @@ address:
   postcode: '20740'
   country: United States
   country_code: US
+
+map:
+  provider: 'mapnik'
+  api_key: ''
+  zoom: 15
 
 coordinates:
   latitude: '38.989'

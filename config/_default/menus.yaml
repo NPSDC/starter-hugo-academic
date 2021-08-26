@@ -22,7 +22,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-
+  - name: CV
+    url: "https://drive.google.com/file/d/1aAp7bW_zMkok7MjJ2bL-_A659rfRI550/view?usp=sharing"
+    weight: 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
