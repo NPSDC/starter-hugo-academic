@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0010482518301781
-url_code: https://github.com/NPSDC/BISP
+url_pdf: https://www.biorxiv.org/content/10.1101/2022.11.01.514769v1.full
+url_code: https://github.com/COMBINE-lab/TreeTerminus
 url_dataset:
 url_poster:
 url_project:

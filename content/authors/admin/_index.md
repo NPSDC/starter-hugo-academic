@@ -60,7 +60,7 @@ social:
   link: https://www.linkedin.com/in/noor-pratap-singh-07653b74/
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1aAp7bW_zMkok7MjJ2bL-_A659rfRI550/view?usp=sharing
+  link: https://drive.google.com/file/d/1ZidA6eTOPBJRz0KwoY2t_4LH_bfudblm/view?usp=sharing
 
 
 # Link to a PDF of your resume/CV.
