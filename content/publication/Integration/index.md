@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Integrative analysis of DNA methylation and gene expression in Papillary Renal Cell Carcinoma"
-authors: [**"Noor Pratap Singh"**, "Vinod PK"]
+authors: ["**Noor Pratap Singh**", "P K Vinod"]
 date: 2020-01-09T17:25:46-05:00
 doi: "https://doi.org/10.1007/s00438-020-01664-y"
 
