@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Noor Pratap Singh # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '© {2021} Noor Pratap' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://noorpratap.github.io/' # Website URL
+copyright: '© {2022} Noor Pratap' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
