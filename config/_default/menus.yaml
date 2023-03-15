@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: "https://drive.google.com/file/d/1aAp7bW_zMkok7MjJ2bL-_A659rfRI550/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1ZidA6eTOPBJRz0KwoY2t_4LH_bfudblm/view?usp=sharing"
     weight: 70
   - name: News
     url: '#recent_news'
