@@ -19,6 +19,7 @@ bio: I am interested in developing and applying statistical methods for analysis
 # Interests to show in About widget
 interests:
 - Computational Biology
+- Algorithms and data structures for data processing
 - Machine Learning
 - Statistical Learning
 
@@ -27,7 +28,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: UMD - College Park
-    year: 2019-Present
+    year: 2019-2025
   - course: MS in Computer Science
     institution: UMD - College Park
     year: 2019-2021
@@ -77,8 +78,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD Student at the Department of Computer Science at the University of Maryland, College Park (UMD). At UMD, I am part of [CBCB](https://www.cbcb.umd.edu/) and work with [Dr. Rob Patro](http://www.robpatro.com/redesign/) who leads the [COMBINE-Lab](https://combine-lab.github.io/). I also collaborate with [Love Lab](https://mikelove.github.io/) at University of North Carolina at Chapel Hill. My research interests lie in application and development of algorithms, statistical and machine learning methods for analysing different high-throughput genomics data. I am also passionate about using data for precision and translational medicine.
+I am a PhD Student at the Department of Computer Science at the University of Maryland, College Park (UMD). At UMD, I am part of [CBCB](https://www.cbcb.umd.edu/) and work with [Dr. Rob Patro](http://www.robpatro.com/redesign/), who leads the [COMBINE-Lab](https://combine-lab.github.io/). I also collaborate with [Love Lab](https://mikelove.github.io/) at the University of North Carolina at Chapel Hill. My research interests lie in the application and development of algorithms, statistical and machine learning methods for analysing different high-throughput genomics data. I am also passionate about using data for precision and translational medicine.
 
-Before joining the [COMBINE-Lab](https://combine-lab.github.io/), I worked with [Dr Héctor Corrada Bravo](https://www.hcbravo.org/) on using transcriptome segments as the main inferential unit for analysis and using them for alternative splicing analysis and clustering on full-length single cell sequencing datasets.
+Before joining the [COMBINE-Lab](https://combine-lab.github.io/), I worked with [Dr Héctor Corrada Bravo](https://www.hcbravo.org/) on using transcriptome segments as the main inferential unit for analysis and using them for alternative splicing analysis and clustering on full-length single-cell sequencing datasets.
 
-I completed my undergraduate studies along with a MS by Research degree under the guidance of [Dr. Vinod PK](https://faculty.iiit.ac.in/~vinod.pk/team.html) at IIIT-Hyderabad in India, where I studied the changes in the expression patterns between different stages of papillary renal cell carcinoma using RNA-Seq and DNA methylation data. I also examined the relationship between these two modalities and developed integrative machine learning models to predict the stage of cancer.
+I completed my undergraduate studies along with an MS by Research degree under the guidance of [Dr. Vinod PK](https://faculty.iiit.ac.in/~vinod.pk/team.html) at IIIT-Hyderabad in India, where I studied the changes in the expression patterns between different stages of papillary renal cell carcinoma using RNA-seq and DNA methylation data. I also examined the relationship between these two modalities and developed integrative machine learning models to predict the stage of cancer.
